@@ -1,0 +1,15 @@
+#hello buddy
+#keep learning and keep practicing 
+=> basic command in linux and termux
+1. Ls - to list directories and subdirectory 
+2. Clear - to clear the screen
+3. Mkdir - to create directories 
+4. rm - remove directories 
+5. Mv - move directories 
+6. Cp - copy directories 
+7. Cd - change directories 
+8. Vi - create or open existing files
+9. Echo - give standart output
+10. Su - super user
+11. Su namwe - change user 
+12. Ping - trace the connection 
